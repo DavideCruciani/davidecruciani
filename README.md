@@ -11,7 +11,7 @@ Sono un frontend developer appassionato e con una forte motivazione nel campo de
 ## 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/davide-cruciani-7b696a270/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-
+- 📱 LinkedIn: [https://www.linkedin.com/in/yourprofile/]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/davide-cruciani-7b696a270/))
 - 📧 Email: [cruciani240203@gmail.com](mailto:cruciani240203@gmail.com)
 
 ## 🔧 Technologies & Tools
@@ -21,5 +21,6 @@ Sono un frontend developer appassionato e con una forte motivazione nel campo de
 ## 🎨 Portfolio
 
 ![Project 1](/new-portfolio.png)
-<a href="https://portfolio-davidecruciani.netlify.app/">Website Link<a/>
-Visita il mio portfolio per vedere alcuni dei miei progetti in live demo 👨‍💻
+Visita il mio portfolio per vedere alcuni dei miei progetti in live demo 👨‍💻 <br/>
+<a href="https://portfolio-davidecruciani.netlify.app/">Link<a/>
+
