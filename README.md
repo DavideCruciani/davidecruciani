@@ -2,7 +2,7 @@
 Davide Cruciani<br/>
 Frontend Developer<h1/>
 
-![Monkey Coding GIF](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)
+<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="Cool Monkey">
 
 ## 🧍‍♂️ About Me
 
@@ -18,10 +18,8 @@ Sono un frontend developer appassionato e con una forte motivazione nel campo de
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,tailwind,git)](https://skillicons.dev)
 
-### Some of my projects:
+### 🎨 Portfolio
 
 ![Project 1](/new-portfolio.png)
-![Project 2](/Homepage-BMW.png)
-![Project 3](/IP-address-tracker.png)
-![Project 4](/HooBank.png)
-![Project 5](/SpaceTourism.png)
+<a href="https://portfolio-davidecruciani.netlify.app/">Website Link<a/>
+Visita il mio portfolio per vedere alcuni dei miei progetti in live demo 👨‍💻
