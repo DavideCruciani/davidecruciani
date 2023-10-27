@@ -10,8 +10,7 @@ Sono un frontend developer appassionato e con una forte motivazione nel campo de
 
 ## 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/davide-cruciani-7b696a270/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-- 📱 LinkedIn: [https://www.linkedin.com/in/yourprofile/]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/davide-cruciani-7b696a270/))
+- 📱 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/davide-cruciani-7b696a270/)
 - 📧 Email: [cruciani240203@gmail.com](mailto:cruciani240203@gmail.com)
 
 ## 🔧 Technologies & Tools
