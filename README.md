@@ -2,7 +2,7 @@
 Davide Cruciani<br/>
 Frontend Developer<h1/>
 
-<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="Cool Monkey">
+![Monkey Coding GIF](/giphy.gif)
 
 ## 🧍‍♂️ About Me
 
