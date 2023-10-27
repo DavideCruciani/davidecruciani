@@ -15,7 +15,7 @@ Sono un frontend developer appassionato e con una forte motivazione nel campo de
 
 ## 🔧 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,tailwind,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,tailwind,git&perline=4)](https://skillicons.dev)
 
 ## 🎨 Portfolio
 
