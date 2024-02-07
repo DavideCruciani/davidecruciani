@@ -20,6 +20,6 @@ Sono un frontend developer appassionato e con una forte motivazione nel campo de
 ## 🎨 Portfolio
 
 ![Project 1](/Portfolio2024.png)
-Visita il mio portfolio per vedere alcuni dei miei progetti in live demo 👨‍💻 <br/>
+Visita il mio portfolio 👨‍💻 <br/>
 <a href="https://portfolio-davidecruciani.netlify.app/">Link<a/>
 
