@@ -6,7 +6,7 @@ Frontend Developer<h1/>
 
 ## 🧍‍♂️ About Me
 
-Sono un frontend developer appassionato e con una forte motivazione nel campo dello sviluppo web. Ho una curva di apprendimento rapida e mi piace tenere il passo con le ultime tendenze e tecnologie del settore. Sono aperto alle opportunità di apprendimento e sono desideroso di lavorare in un ambiente stimolante in cui posso continuare a crescere come sviluppatore.
+Sono un frontend developer appassionato e con una forte motivazione nel campo dello sviluppo web. Ho una curva di apprendimento rapida e mi piace tenere il passo con le ultime tendenze e tecnologie del settore.
 
 ## 📫 Let's Connect
 
